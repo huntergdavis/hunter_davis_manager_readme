@@ -1,6 +1,6 @@
 Introduction
 
-So, I'm your new manager, department leader, skip level, etc.  First off, welcome to the team! If you are just joining Avvo, you've got some exciting and fun times ahead. If you've not met me before, I'm looking forward to it!  My name is Hunter Davis, and I'm currently a senior engineering manager here at Avvo.
+So, I'm your new manager, department leader, skip level, etc.  First off, welcome to the team! If you are just joining Avvo, you've got some exciting and fun times ahead. If you've not met me before, I'm looking forward to it!  My name is Hunter Davis, and I'm currently engineering director here at Avvo.
 
 My Background
 
