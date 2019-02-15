@@ -46,6 +46,4 @@ Helping each other
 
 As I mentioned above, I expect you to help each other.  We’re a collaborative environment, we pair in thought and often in tasks.  Help each other. That’s my direct expectation of you.
 
-If you are blocked or don’t know what to do
-
-If you’re ever not sure what to do, find me, a manager, a mentor, or your program manager and we’ll help you directly.  If no-one is available, reach out to a team member. We’re here to help you.
+If you’re ever not sure what to do or are blocked, find me, a manager, a mentor, or your program manager and we’ll help you directly.  If no-one is available, reach out to a team member. We’re here to help you.
